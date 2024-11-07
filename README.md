@@ -44,7 +44,7 @@ This application is built using **Django** for the backend, and it follows the b
    First, clone the repository to your local machine:
 
    ```bash
-   [git clone https://github.com/yourusername/online-courier-management-system.git](https://github.com/Deeksha27Deekshitha/logway.git)
+   [git clone https://github.com/Deeksha27Deekshitha/logway.git]
    cd ourproject
 
 2. **Run Server**
