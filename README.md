@@ -34,8 +34,7 @@ This application is built using **Django** for the backend, and it follows the b
 
 ### Prerequisites
 - Python 3.8 or higher
-- Django 4.x or higher
-- PostgreSQL (or any database configured with Django)
+- Django 3.x or higher
 - pip (Python package manager)
 
 ### Step-by-Step Installation
@@ -45,5 +44,9 @@ This application is built using **Django** for the backend, and it follows the b
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/online-courier-management-system.git
-   cd online-courier-management-system
+   [git clone https://github.com/yourusername/online-courier-management-system.git](https://github.com/Deeksha27Deekshitha/logway.git)
+   cd ourproject
+
+2. **Run Server**
+
+   python manage.py runserver
