@@ -6,11 +6,7 @@ Welcome to the **Online Courier Management System** project! This application is
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The **Online Courier Management System** is a web-based platform developed to assist courier companies with their daily operations. The system provides functionalities such as:
